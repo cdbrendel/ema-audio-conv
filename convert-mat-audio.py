@@ -1,6 +1,6 @@
 #!/bin/python
 # Requirements: scipy, numpy. You might need to pip install these if you don't have them.
-# After editing the below settings, run 'python convert-may-audio.py' or perhaps
+# After editing the below settings, run 'python convert-mat-audio.py' or perhaps
 # 'python3 convert-mat-audio.py', depending on your system
 # Note that everything here assumes single-channel (mono) audio.
 
